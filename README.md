@@ -1,3 +1,9 @@
+# Archived / superseded
+
+> **This repository is no longer developed.** FDTD Online now lives in the monorepo **[abc0990cba/node-addons-rust](https://github.com/abc0990cba/node-addons-rust)** (see [PR #1](https://github.com/abc0990cba/node-addons-rust/pull/1) and the monorepo README). Do not develop here — keep this tree as historical reference only.
+
+---
+
 # TODO: Select component
 - https://github.com/WebDevSimplified/react-select/blob/main/src/Select.tsx
 
